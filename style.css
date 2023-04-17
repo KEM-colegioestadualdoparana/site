@@ -1,0 +1,91 @@
+header {
+    background-color: #ecb716;
+}
+
+ul {
+    color: rgb(0, 0, 0);
+}
+
+img {
+    display: inline-block;
+    margin: 0 0px;
+    padding: 5px 0;
+}
+
+.logo {
+    width: 6%;
+}
+
+.cabecario {
+    background-color: #173469;
+    color: white;
+    display: flex;
+    justify-content:
+        space-around;
+}
+
+.titulo-cabecario{text-align: center;}
+
+.classe-ul {
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: white;
+}
+
+.secao {
+    background-image: linear-gradient(#173469,
+            #8888);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.foto-estudantes {
+    width: 20%;   text-align: center; margin-left: 10px;
+}
+
+.cailu-div{display: flex;}
+
+.elivin-div{display: flex;}
+
+.lnido-div{display: flex;}
+
+.texto-elivin{text-align: center; font-size: 150%; margin-left: 10px; margin-right: 10px; margin-top: 50px;}
+
+.texto-cailu{text-align: center; font-size: 150%; margin-left: 10px; margin-right: 10px; margin-top: 50px;}
+
+.texto-lnido{text-align: center; font-size: 150%; margin-left: 10px; margin-right: 10px; margin-top: 50px;}
+
+
+.div {
+    width: 35%;
+}
+
+.apresentacao {
+    padding: 12px 0; text-align: center; font-size: 36px;
+} 
+
+.alunos {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+body {
+    background-color: antiquewhite;
+}
+
+.nome da classe geral{display: grid;
+    grid-template-columns: 20% 20% 20% 20%;}
+    
+    footer{background-color: #173469; padding: 15px 0;
+    
+    text-align: center;}
